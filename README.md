@@ -30,17 +30,17 @@ The API supports product CRUD, image uploads via Cloudinary, product reviews, an
 
 1. **Clone the repository**
 
-  bash
-  git clone <your-repo-url>
-  cd <your-repo-folder>
+  
 
 2. **Install dependencies**
-  npm install
+   
+    npm install
 
-3. **Configure environment variables**
+4. **Configure environment variables**
    MONGO_URI=<your-mongodb-connection-string>
+   
    OPENAI_API_KEY=<your-openai-api-key>
    
-4. **Start the server**
+5. **Start the server**
    npm start
 
