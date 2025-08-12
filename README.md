@@ -1,4 +1,4 @@
-# AI-Powered E-Commerce Product API
+# AI-Powered E-Commerce site
 
 ## Overview
 This is a Node.js and Express-based backend API for managing e-commerce products, enhanced with AI-powered natural language search capabilities using OpenAI GPT-4o-mini.  
