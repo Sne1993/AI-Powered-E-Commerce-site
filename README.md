@@ -37,10 +37,12 @@ The API supports product CRUD, image uploads via Cloudinary, product reviews, an
     npm install
 
 4. **Configure environment variables**
+
    MONGO_URI=<your-mongodb-connection-string>
    
    OPENAI_API_KEY=<your-openai-api-key>
    
-5. **Start the server**
+6. **Start the server**
+   
    npm start
 
