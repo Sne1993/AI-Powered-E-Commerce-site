@@ -46,3 +46,21 @@ The API supports product CRUD, image uploads via Cloudinary, product reviews, an
    
    npm start
 
+7. **Tools & Libraries Used**
+   
+  Node.js & Express - Backend server framework
+  
+  MongoDB - Database to store products and user data
+  
+  Cloudinary - Image storage and management
+  
+  OpenAI API - AI-powered language features
+  
+
+8. **Notable Assumptions**
+
+   MongoDB is already set up and accessible.
+   OpenAI Key is provided
+
+Additional libraries for routing, controllers, and middleware as needed
+
